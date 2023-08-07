@@ -1,0 +1,54 @@
+.box1{
+    height: 300px;
+    width: 300px;
+    border: 3px dashed red;
+    margin-left: 30px;
+}
+p{
+    background-color: lime;
+    padding: 50px 60px 75px;
+}
+#p1{
+    background-color: lime;
+    width: 300px;
+    border: 2px dotted black;
+}
+#p2{
+    background-color: lime;
+    width: 300px;
+    border: 2px dotted black;
+}
+.box2{
+    color: crimson;
+    height: 300px;
+    width: 300px;
+    border: 5px solid red;
+    margin-top: 20px;
+    padding: 20px;
+    margin-top: 20px;
+    margin-left: 20px;
+    outline-width: 5px;
+    outline-style: dashed;
+    outline-color: blue;
+    outline-offset: 5px;
+}
+p3{
+    color: #fff;
+    background-color: black;
+    text-align: justify;
+    text-align-last: justify;
+}
+#top{
+    vertical-align: top;
+}
+#sup{
+    vertical-align: super;
+}
+p4{
+    color: #fff;
+    padding: 5px;
+    direction: ltr;
+    border: 2px solid red;
+    background-color: black;
+    unicode-bidi: bidi-override;
+}
